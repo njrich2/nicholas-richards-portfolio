@@ -1,0 +1,10 @@
+{
+
+  "name": "Python Project",
+
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.10-slim",
+
+  "postCreateCommand": "python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt"
+
+} 
+
