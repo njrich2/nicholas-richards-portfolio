@@ -23,7 +23,7 @@ Highly motivated and detail-oriented aspiring data scientist experienced in Pyth
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## Technical Skills & Tools
 
 - **Programming Languages:** Python, SQL, R, JavaScript
 - **Frameworks & Libraries:** Pandas, NumPy, XGBoost, TensorFlow, PyTorch
