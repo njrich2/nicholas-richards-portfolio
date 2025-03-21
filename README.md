@@ -12,7 +12,7 @@ Highly motivated and detail-oriented aspiring data scientist experienced in Pyth
 
 ## Projects
 
-- ### [March Madness Machine Learning](projects/march_madness_machine_learning)
+- ### [March Madness Machine Learning](projects/march_madness_machine_learning/march_madness_machine_learning.md)
   This project showcases a predictive modeling pipeline independently developed for Kaggle's March Madness Machine Learning Mania competition, employing deep learning techniques and matrix completion methods. Undertaken as a personal challenge, the project provided an opportunity to deepen practical skills in neural network architectures and explore a new modeling technique, matrix completion, to accurately forecast NCAA tournament outcomes. 
 
 - ### [NBA Positional Archetype Analysis](projects/nba_analysis)
