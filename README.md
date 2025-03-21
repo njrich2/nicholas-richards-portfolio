@@ -18,7 +18,7 @@ Highly motivated and detail-oriented aspiring data scientist experienced in Pyth
 - ### [NBA Positional Archetype Analysis](projects/nba_analysis)
   The NBA Analysis Final Project explores the evolving landscape of basketball positions by modeling player positions based on statistical performance. Conducted as my groups final project of my introduction to machine learning course, the project examines traditional position classifications and assesses their relevance in the context of contemporary, positionless basketball. Through statistical modeling and variance analysis, the project introduces an innovative "archetype" classification system, providing deeper insights into players' distinct playing styles and contributing to a more nuanced understanding of modern basketball dynamics.
 
-- ### [Zillow But Better Homework Assignment](projects/house_ price_predictor)
+- ### [Zillow But Better Homework Assignment](projects/housing_pricing_prediction)
   The "Zillow But Better Homework Assignment" is a predictive modeling project developed to enhance property price estimation accuracy using advanced machine learning methods. Independently completed as part of a class homework assignment, this project involved extensive exploratory data analysis, detailed feature engineering, and application of regression-based algorithms. The project provided valuable hands-on experience with real-world datasets and the opportunity to refine analytical techniques, reinforcing practical skills in predictive analytics and data-driven decision-making.
 
 ---
